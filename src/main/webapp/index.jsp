@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
-    <title>pavanmart — Modern E‑Commerce Experience</title>
+    <title>NovaMart — Modern E‑Commerce Experience</title>
     <!-- Google Fonts & Icons -->
     <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
@@ -469,7 +469,7 @@
         <section class="hero-modern">
             <div class="container hero-content">
                 <div class="hero-badge"><i class="fas fa-gem"></i> Limited Edition Drops</div>
-                <h1>Make Your <span style="color: #3b82f6;">EveryDay</span> Style</h1>
+                <h1>Make Your <span style="color: #3b82f6;">EveryDay</span> Style Like a pro</h1>
                 <p style="font-size: 1.2rem; max-width: 600px; margin: 0 auto; opacity: 0.9;">premium materials, and exclusive flash sales.</p>
                 <div class="hero-buttons">
                     <button class="btn-primary" id="shopNowHero">My New Collection →</button>
